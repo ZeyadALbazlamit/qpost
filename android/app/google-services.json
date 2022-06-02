@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999553408162",
+    "firebase_url": "https://qposts-87cf8.firebaseio.com",
+    "project_id": "qposts-87cf8",
+    "storage_bucket": "qposts-87cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999553408162:android:fcc4e7c0ab32459ebb8bfb",
+        "android_client_info": {
+          "package_name": "com.qposts2029.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999553408162-faa0tb8ahf8hrjebus1fo7vo3rn8kvo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mgoFRqazXyBf3AKSF1rcEf3u4o6M_Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999553408162-faa0tb8ahf8hrjebus1fo7vo3rn8kvo5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999553408162-atnorj1mjmkj0scc7eep2t1eprs36gk8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qposts.main"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
